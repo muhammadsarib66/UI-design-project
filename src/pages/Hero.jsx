@@ -4,7 +4,7 @@ import Button from '../components/common/Button'
 const Hero = () => {
   return (
     
-    <section className='min-h-screen flex flex-col pt-28 space-y-10 text-center  items-center'>
+    <section className='min-h-svh flex flex-col  space-y-10 text-center justify-center items-center'>
         <p className='font-bold text-3xl md:text-5xl '>
 Unlock opportunities <br/> with industry experts
         </p>

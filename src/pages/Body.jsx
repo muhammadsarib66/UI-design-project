@@ -44,7 +44,7 @@ const Body = () => {
         })}
       </div>
 
-      <div className="grid  grid-cols-1 md:grid-cols-3 sm:grid-cols-2 lg:gap-14 gap-8 ">
+      <div className="grid  grid-cols-1 md:grid-cols-3 sm:grid-cols-2 lg:gap-14 gap-8  pb-8">
         {UserCardDetail.map((UserCardDetail) => {
           return (
             <UserCard

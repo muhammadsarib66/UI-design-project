@@ -1,0 +1,8 @@
+<i class="fa-brands fa-github"></i>  // git hub 
+<i class="fa-brands fa-linkedin"></i> // linkedin
+
+<i class="fa-solid fa-circle-arrow-right"></i> // arrow  <i class="fa-solid fa-arrow-right"></i>
+
+<i class="fa-solid fa-calendar"></i> calender 
+
+color #ACB4FF
