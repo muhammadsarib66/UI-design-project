@@ -10,7 +10,7 @@ const MeatingCard = () => {
   return (
     <div
       onClick={handleCardClick}
-      className=" bg-white py-4 rounded-xl shadow-lg hover:scale-95  duration-300	 cursor-pointer"
+      className="relative bg-white py-4 rounded-xl shadow-lg hover:scale-95  duration-300	 cursor-pointer"
     >
       <div className="flex justify-between px-4">
         <span className="bg-[#F4F4F4]  text-gray-500 inline-block  md:text-xl font-bold px-4 py-2 rounded-lg">

@@ -28,9 +28,7 @@ const Sec2 = () => {
       <div className=" w-[100%] md:w-[55%] flex flex-col gap-6 px-4    ">
         {[1, 2, 3].map((item) => {
           return (
-            <span>
               <MeatingCard />
-            </span>
           );
         })}
       </div>
